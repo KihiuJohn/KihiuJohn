@@ -29,7 +29,6 @@ I am a passionate web developer who excels in the complexities of backend techno
   </a>
 </p>
 
-<figure>
-  <embed src="https://wakatime.com/share/@018c7144-e036-474b-9e62-6eed7512fa36/03b416df-4509-477f-b45f-8d0753828bc8.svg">
-</embed>
-</figure>
+### Wakatime Stats
+
+![Wakatime Stats](https://wakatime.com/share/@018c7144-e036-474b-9e62-6eed7512fa36/03b416df-4509-477f-b45f-8d0753828bc8.svg)
