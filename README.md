@@ -7,7 +7,7 @@ Web Developer
 I am a passionate web developer who excels in the complexities of backend technologies. My skills revolve around creating strong solutions using Laravel and PHP. Whether it involves designing databases, enhancing APIs, or guaranteeing flawless functionality, I am dedicated to providing exceptional results. When I am not engrossed in coding, you may find me enjoying a cup of coffee ☕️, pondering elegant algorithms, or staying updated with the latest tech trends. Let us collaborate and create something extraordinary together! 🚀👨‍💻
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [kihiuj3@gmail.com](mailto:kihiuj3@gmail.com)
+* ✉️  You can contact me at [kihiujohn12@gmail.com](mailto:kihiujohn12@gmail.com)/+254115169705
 
 ### Skills
 
