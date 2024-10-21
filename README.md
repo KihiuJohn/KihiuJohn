@@ -11,9 +11,10 @@ I am a passionate web developer who excels in the complexities of backend techno
 
 <br/>
 
+
 <table>
 	<tr>
-		<th colspan="2">LANGUAGES AND TOOLS</th>
+		<th colspan="12">LANGUAGES AND TOOLS</th>
 	</tr>
 	<tr>
 		<tr>
