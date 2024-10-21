@@ -48,7 +48,6 @@ I am a passionate web developer who excels in the complexities of backend techno
 			<td>
 				<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 				<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-				<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="mssql" width="40" height="40"/> </a> 
 			</td>
 		</tr>
 		<tr>
