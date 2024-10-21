@@ -9,9 +9,6 @@ I am a passionate web developer who excels in the complexities of backend techno
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [kihiujohn12@gmail.com](mailto:kihiujohn12@gmail.com)/+254115169705
 
-<br/>
-
-
 <table>
 	<tr>
 		<th colspan="12">LANGUAGES AND TOOLS</th>
