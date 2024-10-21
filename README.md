@@ -11,30 +11,6 @@ I am a passionate web developer who excels in the complexities of backend techno
 
 <br/>
 
-<style>
-  table {
-    width: 100%; /* Make the table occupy the full width of its container */
-    border-collapse: collapse; /* Ensure borders do not have extra space */
-    margin: 20px 0; /* Add some margin for spacing */
-  }
-  th {
-    text-align: left; /* Align text in the headers to the left */
-    font-size: 20px;
-    padding: 10px;
-    background-color: #f2f2f2; /* Light gray background for the header */
-  }
-  td {
-    padding: 10px;
-    font-size: 16px;
-    vertical-align: top;
-  }
-  td img {
-    margin-right: 10px; /* Space between icons */
-  }
-  tr:nth-child(even) {
-    background-color: #f9f9f9; /* Alternating row colors */
-  }
-</style>
 
 <table>
 	<tr>
