@@ -71,7 +71,8 @@ I am a passionate web developer who excels in the complexities of backend techno
 		</tr>
 	</tr>
 
-### Socials
+ </br>
+ Socials
 
 <p align="left">
   <a href="https://www.github.com/KihiuJohn" target="_blank" rel="noreferrer">
