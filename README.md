@@ -14,7 +14,7 @@ I am a passionate web developer who excels in the complexities of backend techno
         <th colspan="2" style="text-align: center; padding: 10px; background-color: #f4f4f4;">LANGUAGES AND TOOLS</th>
     </tr>
     <tr>
-        <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Programming Languages</td>
+        <td style="width: 100%; vertical-align: top; padding: 10px; font-weight: bold;">Programming Languages</td>
         <td style="width: 100%; padding: 10px;">
             <a href="https://www.php.net" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
