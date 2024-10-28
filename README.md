@@ -9,13 +9,13 @@ I am a passionate web developer who excels in the complexities of backend techno
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [kihiujohn12@gmail.com](mailto:kihiujohn12@gmail.com)/+254115169705
 
-<table style="width:100%; border-collapse: collapse;">
+<table>
     <tr>
         <th colspan="2" style="text-align: center; padding: 10px; background-color: #f4f4f4;">LANGUAGES AND TOOLS</th>
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Programming Languages</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://www.php.net" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
             </a> 
@@ -38,7 +38,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Frontend Development</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://reactjs.org/" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
             </a> 
@@ -58,7 +58,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Backend Development</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://nodejs.org" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
             </a> 
@@ -66,7 +66,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Database</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://www.sqlite.org/" target="_blank"> 
                 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
             </a> 
@@ -77,7 +77,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Framework</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://laravel.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" />
             </a>
@@ -88,7 +88,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Software</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://postman.com" target="_blank"> 
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
             </a> 
@@ -96,7 +96,7 @@ I am a passionate web developer who excels in the complexities of backend techno
     </tr>
     <tr>
         <td style="width: 20%; vertical-align: top; padding: 10px; font-weight: bold;">Other</td>
-        <td style="width: 80%; padding: 10px;">
+        <td style="width: 100%; padding: 10px;">
             <a href="https://git-scm.com/" target="_blank"> 
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
             </a> 
