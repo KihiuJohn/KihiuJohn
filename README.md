@@ -1,4 +1,4 @@
-## Hey 👋, I'm John!  
+## Hey 👋, I'm John !  
   
 
 <a href="https://github.com/kihiujohn" target="_blank">
