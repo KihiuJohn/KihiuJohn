@@ -1,16 +1,6 @@
 ## Hey 👋, I'm John !  
+
   
-
-<a href="https://github.com/kihiujohn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_migett" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ### Glad to see you here!  
 I am a passionate web developer who excels in the complexities of backend technologies. My skills revolve around creating strong solutions . Whether it involves designing databases, enhancing APIs, or guaranteeing flawless functionality, I am dedicated to providing exceptional results. When I am not engrossed in coding, you may find me enjoying a cup of coffee ☕️, pondering elegant algorithms, or staying updated with the latest tech trends. Let us collaborate and create something extraordinary together! 🚀👨‍💻  
   
