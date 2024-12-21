@@ -13,7 +13,7 @@ Hello, I'm John !
 📝 I have a strong interest in Software Engineering and Design
 🛠️ Currently learning C#, Java, .NET Core framework
 🌱 Learning about efficient designs for scalable systems
-✨ Main language: Java 😁
+✨ Primary Tech Stack: Laravel, React, and .NET Core 🎯
 🛎 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
 </pre>
