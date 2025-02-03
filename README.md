@@ -47,5 +47,5 @@ Hello, I'm John !
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kihiujohn&theme=darcula&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=kihiujohn&theme=react-dark&hide_border=true" />
 </p>
