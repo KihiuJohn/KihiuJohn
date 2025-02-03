@@ -45,4 +45,7 @@ Hello, I'm John !
 
 ## 📊 &nbsp;GitHub Stats
 
-![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kihiujohn&theme=darcula&hide_border=true" />
+</p>
