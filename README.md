@@ -1,8 +1,8 @@
 <h1 align="center">
-Hello, I'm John ! 
-	<a href="https://github.com/KihiuJohn" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  Hello, I'm John ! 
+  <a href="https://github.com/KihiuJohn" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hello"/>
+  </a>
 </h1>
 
 <hr>
@@ -17,14 +17,21 @@ Hello, I'm John !
 🛎 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
 </pre>
+
 <hr>
 
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="mailto:kihiujohn12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/john-kihiu-3481b8232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/_migett/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:kihiujohn12@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/john-kihiu-3481b8232/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_migett/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -45,7 +52,19 @@ Hello, I'm John !
 
 ## 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kihiujohn&theme=github_dark" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        width="100%" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&theme=darcula&show_icons=true&hide_border=true&layout=compact" 
+        alt="Top Languages" />
+    </td>
+    <td>
+      <img 
+        width="100%" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kihiujohn&theme=github_dark" 
+        alt="Profile Summary" />
+    </td>
+  </tr>
+</table>
