@@ -9,7 +9,6 @@
 
 <pre>
 💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Information Technology from Multimedia University of Kenya
 📝 I have a strong interest in Software Engineering and Design
 🛠️ Currently learning C# and .NET Core framework
 🌱 Learning about efficient designs for scalable systems
