@@ -1,88 +1,86 @@
-<h1 align="center">John Kihiu</h1>
+<div align="center">
 
-<p align="center">
-  Backend Developer &nbsp;·&nbsp; ERP Integrations &nbsp;·&nbsp; Nairobi, Kenya
-</p>
+```
+╔══════════════════════════════════════════╗
+║           JOHN KIHIU                    ║
+║           Backend Developer             ║
+║           Nairobi, Kenya                ║
+╚══════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="mailto:kihiujohn12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kihiujohn12%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=161b22" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/john-kihiu-3481b8232/">
-    <img src="https://img.shields.io/badge/LinkedIn-john--kihiu-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=161b22" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://kihiujohn.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-kihiujohn.github.io-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117&color=161b22" alt="Portfolio"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/GMAIL-kihiujohn12%40gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kihiujohn12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-john--kihiu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-kihiu-3481b8232/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kihiujohn.github.io-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://kihiujohn.github.io)
+
+</div>
 
 ---
 
-### About
+### `> ABOUT`
 
-Backend developer with a focus on ERP customisation, API integrations, and scalable system design. I work primarily with Acumatica (.NET/C#), building integrations across fintech, logistics, and identity management domains. Outside of client work, I explore algorithmic trading systems in Go and Python.
+Backend developer focused on ERP customisation, API integrations, and scalable system design. I work primarily with Acumatica (.NET/C#), building integrations across fintech, logistics, and identity management domains.
 
-- Currently working at **Future Kenya Limited** as a Junior .NET Developer / Technical Consultant
-- Primary stack: **C# / .NET · Go · Python · Laravel / TALL**
-- Interested in distributed systems, financial automation, and clean API design
-
----
-
-### Tech Stack
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=512BD4)&nbsp;
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
-
-**Frameworks & Platforms**
-
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)&nbsp;
-![Livewire](https://img.shields.io/badge/Livewire-0d1117?style=flat-square&logo=livewire&logoColor=FB70A9)&nbsp;
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=flat-square&logo=alpinedotjs&logoColor=8BC0D0)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)&nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)&nbsp;
+```
+ROLE        Developer / Technical Consultant @ Future Kenya Limited
+FOCUS       ERP Integrations · API Design · Distributed Systems
+STACK       C# / .NET  ·  Go  ·  Python  ·  Laravel / TALL
+```
 
 ---
 
-### GitHub Stats
+### `> STACK`
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+**— Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**— Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**— Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### `> STATS`
+
+<table align="center" border="0" cellspacing="8" cellpadding="8">
   <tr>
-    <td align="center" valign="top">
+    <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=kihiujohn&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&rank_icon=github&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=kihiujohn&show_icons=true&hide_border=false&theme=tokyonight&title_color=FF4500&icon_color=FF4500&border_color=FF4500&border_radius=0"
         alt="GitHub Stats"
-        height="170"
+        height="180"
       />
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiujohn&hide_border=false&theme=tokyonight&layout=compact&langs_count=8&title_color=FF4500&border_color=FF4500&border_radius=0"
         alt="Top Languages"
-        height="170"
+        height="180"
       />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kihiujohn&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e"
+        src="https://streak-stats.demolab.com/?user=kihiujohn&theme=tokyonight&hide_border=false&border=FF4500&ring=FF4500&fire=FF8C00&currStreakLabel=FF4500&border_radius=0"
         alt="GitHub Streak"
-        height="170"
+        height="180"
       />
     </td>
   </tr>
@@ -90,6 +88,8 @@ Backend developer with a focus on ERP customisation, API integrations, and scala
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kihiujohn&style=flat-square&color=30363d&labelColor=0d1117&label=profile+views" alt="Profile views" />
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kihiujohn&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS)
+
+</div>
