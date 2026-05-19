@@ -4,18 +4,23 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hello"/>
   </a>
 </h1>
+
 <hr>
+
 <pre>
-- I am mainly a Backend Developer
-- I have a strong interest in Software Engineering and Design
-- Currently learning C# and .NET Core framework
-- Learning about efficient designs for scalable systems
-- Primary Tech Stack: TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) 🎯
-- Interested in Server Side Application development
-- I look forward to collaborate on impactful projects
+💻 I am mainly a Backend Developer
+📝 I have a strong interest in Software Engineering and Design
+🛠️ Currently learning C# and .NET Core framework
+🌱 Learning about efficient designs for scalable systems
+✨ Primary Tech Stack: TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) 🎯
+🛎 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
 </pre>
+
 <hr>
+
 ## 🤝 Connect with me
+
 <p align="center">
   <a href="mailto:kihiujohn12@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -27,7 +32,9 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 ## 🛠 &nbsp;Tech Stack
+
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpine.js)&nbsp;
@@ -41,7 +48,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
 ## 📊 &nbsp;GitHub Stats
+
 <table align="center">
   <tr>
     <td>
