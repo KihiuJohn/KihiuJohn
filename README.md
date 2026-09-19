@@ -10,8 +10,8 @@
 <pre>
 💻 I am mainly a Backend Developer
 📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently learning C# and .NET Core framework
-🌱 Learning about efficient designs for scalable systems
+🛠️ C# and .NET Core framework
+🌱 Efficient designs for scalable systems
 ✨ Primary Tech Stack: TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) 🎯
 🛎 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
